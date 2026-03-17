@@ -5,24 +5,27 @@
 <h2 align="center">Hi 🌸 I'm Anahi</h2>
 
 <p align="center">
-Biomedical Engineering student 🩺 who loves programming 💻
+Biomedical Engineering student 🩺 who loves programming 💻 <br>
+I enjoy building projects that combine <b>technology + healthcare</b>
 </p>
 
 ---
 
 ## 💗 About Me
 
-🌸 Biomedical Engineering student  
+🌸 Biomedical Engineering student
 
-💻 I love programming and building technology projects  
+💻 Passionate about programming and problem solving
 
-📱 I developed an Android application using Flutter and Android Studio  
+📱 Developed an Android application using Flutter
 
-⚡ I enjoy working with electronics and microcontrollers  
+⚡ Experience with electronics, Arduino and embedded systems
 
-🌱 Currently learning full-stack development  
+🧠 Interested in signal processing and biomedical applications
 
-Most of my projects combine **programming, electronics and biomedical engineering**.
+🌱 Currently learning full-stack development
+
+✨ Most of my projects combine **programming, electronics and biomedical engineering**
 
 ---
 
@@ -30,7 +33,36 @@ Most of my projects combine **programming, electronics and biomedical engineerin
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,flutter,dart,arduino,vscode,androidstudio,git,github" />
+<img src="https://skillicons.dev/icons?i=python,dart,flutter,html,css,js,arduino,vscode,androidstudio,git,github" />
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Biomedical-Engineering-ff69b4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Signal-Processing-pink?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Electronics-Circuits-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Embedded-Systems-purple?style=for-the-badge" />
+
+</p>
+
+---
+
+## 🌟 Featured Projects
+
+<p align="center">
+
+<a href="https://github.com/anahi-f/pulse-oximeter">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anahi-f&repo=pulse-oximeter&theme=rose_pine" />
+</a>
+
+<a href="https://github.com/anahi-f/lumisense">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anahi-f&repo=lumisense&theme=rose_pine" />
+</a>
+
+<a href="https://github.com/anahi-f/numerical-methods-app">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anahi-f&repo=numerical-methods-app&theme=rose_pine" />
+</a>
 
 </p>
 
@@ -38,8 +70,8 @@ Most of my projects combine **programming, electronics and biomedical engineerin
 
 ## 🌱 Currently Learning
 
-- Full-stack web development  
-- Building more biomedical engineering projects  
+* Full-stack web development (Fullstack Open)
+* Building more biomedical engineering projects
 
 ---
 
@@ -47,16 +79,17 @@ Most of my projects combine **programming, electronics and biomedical engineerin
 
 Most of my projects focus on **biomedical engineering applications**, combining:
 
-🩺 biomedical technology  
-💻 programming  
-⚡ electronics  
+🩺 biomedical technology
+💻 programming
+⚡ electronics
 
 Examples of things I enjoy building:
 
-- biomedical devices  
-- Arduino-based systems  
-- Android applications  
-- signal processing projects  
+* biomedical devices (like pulse oximeters)
+* Arduino-based systems
+* Android applications
+* numerical methods tools
+* signal processing projects
 
 ---
 
@@ -79,3 +112,4 @@ Examples of things I enjoy building:
 <p align="center">
 Thanks for visiting my profile 💗
 </p>
+
