@@ -48,26 +48,6 @@ I enjoy building projects that combine <b>technology + healthcare</b>
 
 ---
 
-## 🌟 Featured Projects
-
-<p align="center">
-
-<a href="https://github.com/anahi-f/pulse-oximeter">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anahi-f&repo=pulse-oximeter&theme=rose_pine" />
-</a>
-
-<a href="https://github.com/anahi-f/lumisense">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anahi-f&repo=lumisense&theme=rose_pine" />
-</a>
-
-<a href="https://github.com/anahi-f/numerical-methods-app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anahi-f&repo=numerical-methods-app&theme=rose_pine" />
-</a>
-
-</p>
-
----
-
 ## 🌱 Currently Learning
 
 * Full-stack web development (Fullstack Open)
