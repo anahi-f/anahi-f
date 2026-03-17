@@ -85,10 +85,32 @@ Examples of things I enjoy building:
 
 ---
 
+## 💌 Contact Me
+
+<p align="center">
+
+<a href="mailto:anahi.floresg22@gmail.com">
+  <img src="https://img.shields.io/badge/Email-FFB6C1?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https:/www.linkedin.com/in/anahi-flores-8212263b8">
+  <img src="https://img.shields.io/badge/LinkedIn-F48FB1?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/anahi-f">
+  <img src="https://img.shields.io/badge/GitHub-EC407A?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+<p align="center">
+🌸 Open to collaborations, projects and learning opportunities
+</p>
+
 <p align="center">
 🌸 💻 🩺 🌸 💻 🩺 🌸
 </p>
-
+---
 <p align="center">
 Thanks for visiting my profile 💗
 </p>
