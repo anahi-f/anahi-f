@@ -52,17 +52,18 @@ I enjoy building projects that combine <b>technology + healthcare</b>
 
 <p align="center">
 
-<a href="https://github.com/anahi-f/Pulse_oximeter_with_Arduino">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anahi-f&repo=Pulse_oximeter_with_Arduino&theme=rose_pine" />
-</a>
+🩺 <b><a href="https://github.com/anahi-f/Pulse_oximeter_with_Arduino">Pulse Oximeter with Arduino</a></b>  
+Biomedical device for measuring BPM and estimating SpO₂ using signal processing and sensors  
 
-<a href="https://github.com/anahi-f/Lumisense">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anahi-f&repo=Lumisense&theme=rose_pine" />
-</a>
+<br>
 
-<a href="https://github.com/anahi-f/numerical-methods-python">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anahi-f&repo=numerical-methods-python&theme=rose_pine" />
-</a>
+💡 <b><a href="https://github.com/anahi-f/Lumisense">Lumisense</a></b>  
+Smart sensing project focused on biomedical applications and real-time data  
+
+<br>
+
+🧮 <b><a href="https://github.com/anahi-f/numerical-methods-python">Numerical Methods App</a></b>  
+Python application with GUI implementing interpolation, regression and equation solving  
 
 </p>
 
@@ -98,12 +99,11 @@ Examples of things I enjoy building:
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=anahi-f&show_icons=true&theme=rose_pine&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=anahi-f&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" height="160"/>
 
-<img src="https://streak-stats.demolab.com?user=anahi-f&theme=rose-pine&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anahi-f&layout=compact&theme=radical&hide_border=true&bg_color=00000000" height="160"/>
 
 </p>
-
 ---
 
 ## 💌 Contact Me
