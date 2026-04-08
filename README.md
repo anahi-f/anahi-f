@@ -48,10 +48,31 @@ I enjoy building projects that combine <b>technology + healthcare</b>
 
 ---
 
+## 🌟 Featured Projects
+
+<p align="center">
+
+<a href="https://github.com/anahi-f/pulse-oximeter">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anahi-f&repo=pulse-oximeter&theme=rose_pine" />
+</a>
+
+<a href="https://github.com/anahi-f/lumisense">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anahi-f&repo=lumisense&theme=rose_pine" />
+</a>
+
+<a href="https://github.com/anahi-f/numerical-methods-app">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anahi-f&repo=numerical-methods-app&theme=rose_pine" />
+</a>
+
+</p>
+
+---
+
 ## 🌱 Currently Learning
 
 * Full-stack web development (Fullstack Open)
-* Building more biomedical engineering projects
+* Backend fundamentals
+* Biomedical signal processing
 
 ---
 
@@ -89,11 +110,11 @@ Examples of things I enjoy building:
 
 <p align="center">
 
-<a href="mailto:anahi.floresg22@gmail.com">
+<a href="anahi.floresg22@gmail.com">
   <img src="https://img.shields.io/badge/Email-FFB6C1?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https:/www.linkedin.com/in/anahi-flores-8212263b8">
+<a href="https://www.linkedin.com/in/anahi-flores-8212263b8/">
   <img src="https://img.shields.io/badge/LinkedIn-F48FB1?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -107,11 +128,12 @@ Examples of things I enjoy building:
 🌸 Open to collaborations, projects and learning opportunities
 </p>
 
+---
+
 <p align="center">
 🌸 💻 🩺 🌸 💻 🩺 🌸
 </p>
----
+
 <p align="center">
 Thanks for visiting my profile 💗
 </p>
-
