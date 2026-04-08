@@ -99,9 +99,7 @@ Examples of things I enjoy building:
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=anahi-f&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" height="160"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anahi-f&layout=compact&theme=radical&hide_border=true&bg_color=00000000" height="160"/>
+<img src="https://streak-stats.demolab.com?user=anahi-f&theme=radical&hide_border=true"/>
 
 </p>
 ---
