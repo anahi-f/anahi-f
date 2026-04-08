@@ -98,9 +98,9 @@ Examples of things I enjoy building:
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=anahi-f&show_icons=true&theme=rose_pine"/>
+<img src="https://github-readme-stats.vercel.app/api?username=anahi-f&show_icons=true&theme=rose_pine&hide_border=true&cache_seconds=1800"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anahi-f&layout=compact&theme=rose_pine"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anahi-f&layout=compact&theme=rose_pine&hide_border=true&cache_seconds=1800"/>
 
 </p>
 
